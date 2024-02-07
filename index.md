@@ -8,7 +8,7 @@ Hello!
 | ----------------|--------------|-----------|
 |2021-22          |11th          |FIITJEE    |
 |2022-23          |12th          |FIITJEE    |
-| 2023-27         | Bachelor's   | IIT Goa   |
+|2023-27          |Bachelor's    |IIT Goa    |
 
 # Courses@ IIT Goa
 Here is the list of courses I have completed at IIT Goa
