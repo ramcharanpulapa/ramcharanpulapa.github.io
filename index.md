@@ -4,11 +4,11 @@ Hello!
  
 
 # Education
-|  Academic year  |   Standard   |  School   
-| ----------------|--------------|-----------
-|2021-22          |11th          |FIITJEE    
-|2022-23          |12th          |FIITJEE    
-|2023-27          |Bachelor's    |IIT Goa    
+|  Academic year |   Standard   |  School   
+|----------------|--------------|-----------
+|2021-22         |11th          |FIITJEE    
+|2022-23         |12th          |FIITJEE    
+|2023-27         |Bachelor's    |IIT Goa    
 
 # Courses@ IIT Goa
 Here is the list of courses I have completed at IIT Goa
@@ -38,11 +38,6 @@ Here is the list of courses I have completed at IIT Goa
 # Hobbies, Extracurricular Activities, Interests, Projects
 
 1. I read stories, watch movies and play outdoor games.
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
 
 
