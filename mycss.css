@@ -1,0 +1,59 @@
+about{
+	border: 2px black;
+	background-color:lightsalmon;
+}
+#p1{
+ 	font-weight:bold;
+ 	font-family:timesnewroman;
+ 	text-align:left;
+ 	font-size:13px;
+ }
+ 
+ #p2{
+ 	font-family:sans-serif;
+ 	color:blue;
+ }
+ 
+ #table{
+ 	border-spacing:5px;
+ 	background-color:lightblue;
+ 	padding:10px;
+ 
+ 
+ 
+ .h{
+ 	text-decoration:underline;
+ }
+ 
+ .c{
+ 	text-align:center;
+ }
+ .l{
+ 	text-align:left;
+ }
+ 
+ .course{
+ 	display:flex;
+ }
+ .aut{
+ 	background-color:green;
+ }
+ .spr{
+ 	background-color:lightpink;
+ }
+ #code{
+ 	font-weight:bold;
+ }
+ #inst{
+ 	font-style:italic;
+ }
+ 
+ .hobbies{
+ 	background-color:cyan;
+ }
+ .hobbies h1{
+ 	color:blue
+ }
+ 	
+ 	
+ 	
